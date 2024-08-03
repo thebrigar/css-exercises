@@ -1,0 +1,21 @@
+.number.one {
+    background-color: rgb(186, 65, 85);
+    font-family: verdana, "DejaVu Sans", serif;
+}
+
+.number.three {
+    background-color: rgb(186, 65, 85);
+    font-family: verdana, "DejaVu Sans", serif;
+    font-size: 24px;
+}
+
+#two {
+    color: rgb(66, 176, 255);
+    font-size: 36px;
+}
+
+#four {
+    background-color: rgb(44, 187, 44);
+    font-weight: bold;
+    font-size: 24px;
+}
